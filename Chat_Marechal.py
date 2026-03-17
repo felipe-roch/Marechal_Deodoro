@@ -32,7 +32,7 @@ st.markdown(f"""
         background-size: contain;
         background-position: left center;
         background-repeat: no-repeat;
-        background-color: #fdfdfd;
+        background-color: #fefefe;
         background-attachment: fixed;
     }}
 
